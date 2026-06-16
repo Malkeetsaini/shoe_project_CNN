@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+env/
+venv/
+dist/
+build/
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.tar
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+.DS_Store
