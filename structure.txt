@@ -1,0 +1,29 @@
+MyDrive/
+└── shoe_project/
+    │
+    ├── data/
+    │   ├── shoes/
+    │   ├── train.csv
+    │   ├── val.csv
+    │   ├── test.csv
+    │   └── shoes.zip
+    │
+    ├── configs/
+    │   └── config.py
+    │
+    ├── datasets/
+    │   └── shoe_dataset.py
+    │
+    ├── models/
+    │   └── model.py
+    │
+    ├── utils/
+    │   └── transforms.py
+    │
+    ├── saved_models/
+    │   └── best_model.pth
+    │
+    ├── create_csv.py
+    ├── train.py
+    ├── inference.py
+    └── evaluate.py
