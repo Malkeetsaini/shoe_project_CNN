@@ -4,6 +4,8 @@ env/
 venv/
 dist/
 build/
+data/
+saved_models/
 __pycache__/
 *.pyc
 *.log
